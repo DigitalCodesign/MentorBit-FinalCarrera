@@ -1,0 +1,5 @@
+NombreClase KEYWORD1
+Metodo1 KEYWORD2
+Metodo2 KEYWERD2
+Atributo1 LITERAL1
+Atributo1 LITERAL1
