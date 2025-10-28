@@ -1,5 +1,9 @@
-NombreClase KEYWORD1
-Metodo1 KEYWORD2
-Metodo2 KEYWERD2
-Atributo1 LITERAL1
-Atributo1 LITERAL1
+MentorBitFC KEYWORD1
+estadoActualNO KEYWORD2
+estadoActualNC KEYWORD3
+update KEYWORD4
+getFlanco KEYWORD5
+getVecesInteractuado KEYWORD6
+vecesInteractuado LITERAL1
+flanco LITERAL2
+ultimoEstado LITERAL3
