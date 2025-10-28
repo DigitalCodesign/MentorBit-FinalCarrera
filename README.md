@@ -158,7 +158,7 @@ void loop() {
 
 - <code>unsigned long getVecesInteractuado()</code>
    - **¿Qué hace?** Devuelve cuantas veces se ha activado el final de carrera.
-   - **¿Cuándo se usa?** Cuando se quiere conocer cuantas veces se interactuado con el final de carrera, normalmente dentro de la función <code>loop()</code>. Devuelve un <code>unsigned long<code> con el número de veces que se ha interactuado con el final de carrera.
+   - **¿Cuándo se usa?** Cuando se quiere conocer cuantas veces se interactuado con el final de carrera, normalmente dentro de la función <code>loop()</code>. Devuelve un <code>unsigned long</code> con el número de veces que se ha interactuado con el final de carrera.
 
 ## Recursos Adicionales
 
