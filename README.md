@@ -127,7 +127,7 @@ void loop() {
   delay(2000);
 
 }
-
+```
 ### Para ver el resultado:
 
 1. Carga el código en tu placa MentorBit.
