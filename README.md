@@ -43,7 +43,7 @@ Para que tu placa MentorBit pueda comunicarse con el sensor, solo necesitas inst
 - En el buscador, escribe ***MentorBitFC*** y haz clic en "Instalar".
 - El IDE detectará que esta librería necesita otra para funcionar y te preguntará si quieres instalarla también. Haz clic en "Install all" o "Instalar todo".
 
-![Ejemplo de búsqueda en el gestor de librerías del IDE de Arduino.]()
+![Ejemplo de búsqueda en el gestor de librerías del IDE de Arduino.](https://github.com/DigitalCodesign/MentorBit-FinalCarrera/blob/main/assets/libray_instalation_example.png)
 
 ¡Y ya está! Con eso tienes todo lo necesario para empezar a programar.
 
