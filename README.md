@@ -1,4 +1,4 @@
-# MentorBitIR
+# MentorBitFC
 
 Esta librería está diseñada para que puedas detectar la presencia de objetos de una forma muy sencilla usando tu placa MentorBit y el módulo de final de carrera (FC).
 
